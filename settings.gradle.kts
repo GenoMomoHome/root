@@ -1,1 +1,1 @@
-rootProject.name = "GenoAndMomo"
+rootProject.name = "GenoMomoHome"
