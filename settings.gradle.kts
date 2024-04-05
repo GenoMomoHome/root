@@ -6,5 +6,6 @@ dependencyResolutionManagement {
     }
 }
 
+include(":db")
 include(":gateway")
 include(":tools:clothes-chooser")
